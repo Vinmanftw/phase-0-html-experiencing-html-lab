@@ -1,0 +1,6 @@
+"Venom"
+"Riot"
+"Scream"
+"Carnage"
+"Toxin"
+"Knull"
